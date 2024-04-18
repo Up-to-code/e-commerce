@@ -1,0 +1,18 @@
+.cont {
+  position: relative;
+}
+.icone {
+  width: 22px;
+}
+.num_of_soping_pascet {
+  border-radius: 50%;
+  background: rgb(58, 58, 255);
+  color: white;
+  position: absolute;
+  top: -12px;
+  right: -10px;
+  width: 20px;
+  height: 20px;
+  font-size: 12px;
+  text-align: center;
+}

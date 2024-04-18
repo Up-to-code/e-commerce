@@ -1,0 +1,22 @@
+a{
+    text-decoration: none;
+    color:black;
+   outline-offset: 20px;
+   font-weight: 700;
+}
+.notFound {
+    padding-top: 15%;
+    text-align: center;
+
+  }
+  
+  .notFound h1 {
+    font-size: 110px;
+  }
+  .notFound p {
+    font-size: 46px;
+  }
+  .notFound a{
+    text-decoration: underline;
+    color: blue;
+  }
